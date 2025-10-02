@@ -11,13 +11,18 @@ A comprehensive event analytics mini-project built with SQLite, inspired by anal
 
 ## Features
 
-- Total tickets sold and unique attendees per event (event performance)
-- Capacity alerts: Find events close to sold out
-- RFM analysis: Recency, frequency, and ticket size for segmentation
-- Per-attendee marketing ROI calculation
-- Monthly ticket sales trends
-- Returning and churned attendees
-- Average order value and frequently attended event pairs
+This project includes the following analytics:
+
+1. Total tickets sold and unique attendees per event
+2. Capacity alerts for events nearing full capacity
+3. RFM analysis: Recency, Frequency, and Monetary (ticket size) for attendee segmentation
+4. Per-attendee marketing ROI calculation
+5. Monthly ticket sales trends
+6. Returning attendees analysis
+7. Churned attendees identification
+8. Average order value calculation
+9. Analysis of frequently attended event pairs
+
 
 ## Usage
 
